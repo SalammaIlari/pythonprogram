@@ -29,3 +29,6 @@ for data in final_list :
     else:
         output.append(min(data))
 print(output)
+
+
+output:[35,15,0]
